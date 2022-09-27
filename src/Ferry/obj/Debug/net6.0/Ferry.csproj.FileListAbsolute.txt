@@ -1,0 +1,15 @@
+/home/coder/ferry-kata-c-sharp/src/Ferry/bin/Debug/net6.0/Ferry
+/home/coder/ferry-kata-c-sharp/src/Ferry/bin/Debug/net6.0/Ferry.deps.json
+/home/coder/ferry-kata-c-sharp/src/Ferry/bin/Debug/net6.0/Ferry.runtimeconfig.json
+/home/coder/ferry-kata-c-sharp/src/Ferry/bin/Debug/net6.0/Ferry.dll
+/home/coder/ferry-kata-c-sharp/src/Ferry/bin/Debug/net6.0/Ferry.pdb
+/home/coder/ferry-kata-c-sharp/src/Ferry/obj/Debug/net6.0/Ferry.csproj.AssemblyReference.cache
+/home/coder/ferry-kata-c-sharp/src/Ferry/obj/Debug/net6.0/Ferry.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/ferry-kata-c-sharp/src/Ferry/obj/Debug/net6.0/Ferry.AssemblyInfoInputs.cache
+/home/coder/ferry-kata-c-sharp/src/Ferry/obj/Debug/net6.0/Ferry.AssemblyInfo.cs
+/home/coder/ferry-kata-c-sharp/src/Ferry/obj/Debug/net6.0/Ferry.csproj.CoreCompileInputs.cache
+/home/coder/ferry-kata-c-sharp/src/Ferry/obj/Debug/net6.0/Ferry.dll
+/home/coder/ferry-kata-c-sharp/src/Ferry/obj/Debug/net6.0/refint/Ferry.dll
+/home/coder/ferry-kata-c-sharp/src/Ferry/obj/Debug/net6.0/Ferry.pdb
+/home/coder/ferry-kata-c-sharp/src/Ferry/obj/Debug/net6.0/Ferry.genruntimeconfig.cache
+/home/coder/ferry-kata-c-sharp/src/Ferry/obj/Debug/net6.0/ref/Ferry.dll
