@@ -1,4 +1,5 @@
 namespace Ferry.Tests;
+using Xunit;
 
 public class FerryTests
 {

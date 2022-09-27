@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HqBenXnX8H2RvZ/T7mdLPTkCP7DVvyPlh6iTOZEvyIHc3qUq1EFu22PpVyCp6s4OkED5UA5aTZPq5BcIQ/Uh1A==",
+  "dgSpecHash": "wKa/LE16Sxe+/vWLPHNI4hUWdyFi4ZZuNIxh80CJ21nbZftT+Copoe6VpwzM8ksIcLDQkFXvJ7lDH/7QlWxQfw==",
   "success": true,
   "projectFilePath": "/home/coder/ferry-kata-c-sharp/test/Ferry.Tests/Ferry.Tests.csproj",
   "expectedPackageFiles": [

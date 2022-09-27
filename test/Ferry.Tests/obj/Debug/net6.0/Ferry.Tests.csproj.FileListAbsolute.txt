@@ -96,3 +96,9 @@
 /home/coder/ferry-kata-c-sharp/test/Ferry.Tests/obj/Debug/net6.0/Ferry.Tests.pdb
 /home/coder/ferry-kata-c-sharp/test/Ferry.Tests/obj/Debug/net6.0/Ferry.Tests.genruntimeconfig.cache
 /home/coder/ferry-kata-c-sharp/test/Ferry.Tests/obj/Debug/net6.0/ref/Ferry.Tests.dll
+/home/coder/ferry-kata-c-sharp/test/Ferry.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/home/coder/ferry-kata-c-sharp/test/Ferry.Tests/bin/Debug/net6.0/Ferry.deps.json
+/home/coder/ferry-kata-c-sharp/test/Ferry.Tests/bin/Debug/net6.0/Ferry.runtimeconfig.json
+/home/coder/ferry-kata-c-sharp/test/Ferry.Tests/bin/Debug/net6.0/Ferry
+/home/coder/ferry-kata-c-sharp/test/Ferry.Tests/bin/Debug/net6.0/Ferry.dll
+/home/coder/ferry-kata-c-sharp/test/Ferry.Tests/bin/Debug/net6.0/Ferry.pdb
