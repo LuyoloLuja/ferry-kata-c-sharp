@@ -12,7 +12,9 @@ public class FerryKata {
 
     public String Board(Car car, int peopleBoarding)
     {
-        if(numberOfCarsAllowed > 5 || peopleBoarding > numberOfPeopleAllowed)
+        GiveDiscount(car);
+        // TO DO: find a way not to hard code this condition --- (10)
+        if(numberOfCarsAllowed > 10 || peopleBoarding > numberOfPeopleAllowed)
         {
             return "Rejected";
         }
@@ -60,11 +62,11 @@ public class FerryKata {
             }
         }
         
-        if(count > 0 && count > 3 && count <= 7) 
+        if(count > 3 && count < 7) 
         {
             return "Half Price";
         }
-        else{
+        else {
             return "You go free";
         }
     }
