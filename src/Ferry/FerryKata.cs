@@ -12,7 +12,7 @@ public class FerryKata {
 
     public String Board(Car car, int peopleBoarding)
     {
-        if(numberOfCarsAllowed > 5 || numberOfPeopleAllowed > 10)
+        if(numberOfCarsAllowed > 5 || peopleBoarding > numberOfPeopleAllowed)
         {
             return "Rejected";
         }
